@@ -13,8 +13,8 @@ integration with external agencies will minimize the burden on applicants. The p
 intelligent, and repeatable sequence of events. This demonstration shows a streamlined process for a name change.
 
 
-Option 1 - Install on your machine
-----------------------------------
+Install on your machine
+-----------------------
 1. [Download and unzip.](https://github.com/jbossdemocentral/bpms-name-change-demo/archive/master.zip)
 
 2. Add product installer to installs directory.
