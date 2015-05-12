@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/uddi-ws-3.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/trove.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/serializer.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/scout-1.2.6.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/netty.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/log4j.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/juddi-client-3.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jbossts-common.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jboss-remoting.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jboss-mdr.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jboss-logging-spi.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jbossjmx-ant.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jboss-javaee.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jbossesb-rosetta.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jbossesb-registry.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jbossesb-config-model.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jboss-aop-client.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/jbossall-client.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/javassist.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/hornetq-jms.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/hornetq-core-client.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/concurrent.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/commons-logging.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/commons-collections.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/RedHat/JAR_FILES/camel-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/workspace/pbs-rest-api/WebContent/WEB-INF/lib/scannotation.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/workspace/pbs-rest-api/WebContent/WEB-INF/lib/resteasy-jaxrs.jar"/>
+	<classpathentry kind="lib" path="/home/sirrinki/workspace/pbs-rest-api/WebContent/WEB-INF/lib/jaxrs-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
