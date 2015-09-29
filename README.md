@@ -28,7 +28,7 @@ Install on your machine
 
 Supporting Articles
 -------------------
-None yet...
+- [7 Steps to Your First Process with JBoss BPM Suite Starter	Kit](http://www.schabell.org/2015/08/7-steps-first-process-jboss-bpmsuite-starter-kit.html)
 
 
 Released versions
