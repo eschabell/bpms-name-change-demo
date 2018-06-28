@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/bpms-name-change-demo)
+
+
 JBoss BPM Suite Name Change Demo 
 ================================
 To legally change their name, US citizens have to notify many government agencies and private organizations. The process requires to
